@@ -1,0 +1,1 @@
+This is a project I’m working on for personal training and learning purposes. Unfortunately, the source of the dataset was lost during the process, but I’ll update the repo with the dataset link if I can find it again.
